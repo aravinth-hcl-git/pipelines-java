@@ -48,4 +48,15 @@
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 	
+  <repository>
+  <id>Gamaorg1</id>
+  <url>https://pkgs.dev.azure.com/Gamaorg1/_packaging/Gamaorg1/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+  </repository>
+	
 </project>
